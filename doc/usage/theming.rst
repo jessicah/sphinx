@@ -303,7 +303,7 @@ These themes are:
   There are currently no options beyond *nosidebar* and *sidebarwidth*.
 
 **haiku**
-  A theme without sidebar inspired by the `Haiku OS user guide
+  A theme without sidebar inspired by the `Haiku user guide
   <https://www.haiku-os.org/docs/userguide/en/contents.html>`_.  The following
   options are supported:
 
